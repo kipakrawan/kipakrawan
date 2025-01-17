@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I’m passionate about cybersecurity and automation, and I thrive on solving challenging problems in network security and ethical hacking. I’m working towards breaking into the field as a Security Analyst while continuously building tools and improving my expertise.
 
----
+--- 
 
 ## 🛠️ Skills and Expertise
 - **Programming**: Python scripting and automation.
